@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# The Pangasinan Heritage Digital Showcase
 
-## Getting Started
+A digital showcase that highlights the cultural heritage, history, traditions, and tourist destinations of Pangasinan.
 
-First, run the development server:
+## Student Information
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Student Name:** Deejhay Mararac
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Selected Framework:** Next.js
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+**Architecture:** Atomic Design
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Live Website
 
-## Learn More
+https://devmararac.github.io/pangasinan-heritage/
 
-To learn more about Next.js, take a look at the following resources:
+## Project Description
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The Pangasinan Heritage Digital Showcase is a responsive web application created to promote awareness of Pangasinan's cultural heritage and iconic destinations.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The project uses Next.js with Static Site Generation (SSG) and follows the Atomic Design approach to keep the components organized, reusable, and maintainable.
 
-## Deploy on Vercel
+## Featured Places
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* Alaminos' Hundred Islands
+* Bolinao Lighthouse
+* Balingasay River
+* Balungao Hot Spring
+* Patar Beach
+* Minor Basilica of Our Lady of the Rosary of Manaoag
+* St. James the Great Parish Church
+* Bolinao Falls
+* Enchanted Cave
+* Balingasay River
+* Lingayen Beach
+* Pangasinan Provincial Capitol
+* Sison Auditorium
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Technologies Used
+
+* Next.js
+* React
+* JavaScript
+* CSS / Tailwind CSS
+* GitHub Pages
+
+## Deployment
+
+The website is deployed as a static site using GitHub Pages through GitHub Actions.
